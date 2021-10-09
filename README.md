@@ -38,9 +38,9 @@ You can decide to have them all running at the same time, or deploying one at a 
 
 1. Run the mock XML backend. You'll find instructions under the following folder:
 
-        /stub/end1/Readme.md
+ - [stub/end1/Readme.md](./stub/end1/Readme.md)
 
 2. Run the front-facing Camel K API. You'll find instructions under the following folder:
 
-        /camelk/Readme.md
+ - [camelk/Readme.md](./camelk/Readme.md)
 
