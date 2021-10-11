@@ -32,3 +32,8 @@ curl \
 http://`oc get route api-layer -o jsonpath='{..spec.host}'`/camel/subscriber/details
 ```
 
+Alternatively, execute the provided script that includes the `curl` command above:
+
+```
+./call.sh
+```
