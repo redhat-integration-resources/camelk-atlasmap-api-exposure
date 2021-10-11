@@ -27,7 +27,7 @@ This demo has been tested using:
 
 You can watch how the demo is executed in this video clip:
 
- - https://youtu.be/XXXXXXXXX
+ - https://youtu.be/UB2z2gPxz5M
 
 The demo is composed of 2 Camel K elements
 
