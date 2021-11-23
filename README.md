@@ -1,8 +1,8 @@
-# North API exposure with Camel K and AtlasMap
+# Normalise Web Services with Camel K and AtlasMap
 
 This repository contains all the sources showcased in the following Red Hat Developers article:
 
- - https://developers.redhat.com/articles/2021/10/08/north-api-exposure-camel-k-and-atlasmap
+ - https://developers.redhat.com/articles/2021/11/05/normalize-web-services-camel-k-and-atlasmap-part-1
 
 ## Context
 
@@ -18,7 +18,7 @@ This demo Camel K code requires the following dependencies:
 
 This demo has been tested using:
  - Red Hat OpenShift 4.7
- - Red Hat Camel K 1.4.1 GA
+ - Red Hat Camel K 1.4.2 GA
 
 
 </br>
@@ -27,7 +27,7 @@ This demo has been tested using:
 
 You can watch how the demo is executed in this video clip:
 
- - https://youtu.be/UB2z2gPxz5M
+ - https://youtu.be/oFgztR1uPwo
 
 The demo is composed of 2 Camel K elements
 
