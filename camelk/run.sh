@@ -1,5 +1,4 @@
 kamel run --name api-layer api-route.xml api-spec.xml \
---dependency camel-language \
 --open-api file:api/openapi.json \
 --resource file:api/openapi.json \
 --property file:cfg/svc.properties \

@@ -17,8 +17,8 @@ This demo Camel K code requires the following dependencies:
  - A backend system serving XML over REST (provided)
 
 This demo has been tested using:
- - Red Hat OpenShift 4.7
- - Red Hat Camel K 1.4.2 GA
+ - Red Hat OpenShift 4.10
+ - Red Hat Camel K 1.8.1 GA
 
 
 </br>
