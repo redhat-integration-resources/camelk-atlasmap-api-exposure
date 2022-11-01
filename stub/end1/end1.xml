@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- camel-k: language=xml dependency=camel-quarkus-openapi-java -->
+<!-- camel-k: language=xml dependency=camel-quarkus-openapi-java dependency=camel-quarkus-language -->
 
 <rests xmlns="http://camel.apache.org/schema/spring">
     <rest>
@@ -17,4 +17,3 @@
         </post>
     </rest>
 </rests>
-
